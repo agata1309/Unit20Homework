@@ -1,0 +1,58 @@
+footer {
+    position: absolute;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #f5f5f5;
+    margin-top: 50px;
+  }
+  .cardContainer {
+    margin-bottom: 15px;
+  }
+  .card {
+    margin: 0 auto;
+  }
+  .signUp form {
+    margin: 35px auto;
+    background-color: #f2f2f2;
+    padding: 25px;
+    border-radius: 7px;
+  }
+  .jumbotron {
+    background-image: url(/images/CPR\ Hero\ Background\ .png) ;
+    width: 100%;
+    height: 600px;
+    padding: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-repeat: no-repeat;
+  }
+
+   /* .currentImg {
+    height: 200px;
+    padding: 10px;
+    float: center;
+    /* background-color:cornsilk; */ 
+  
+  .navbar {
+    margin-left: auto;
+    margin-right: 0 !important;
+
+  }
+ .nav-item {
+  margin: 0px 6px;
+  color: black;
+  align-items: right;
+  text-align: right;
+ }
+
+ .content{
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 50px 50px 50px 50px;
+ }
+
+
+h1 {
+  margin-left: 50px;
+} 
